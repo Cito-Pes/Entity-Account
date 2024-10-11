@@ -1,0 +1,8 @@
+build/
+dist/
+venv/
+.idea/
+img/
+DB/
+새 폴더/
+*.spec
